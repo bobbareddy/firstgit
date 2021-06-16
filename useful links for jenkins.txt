@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=1ji_9scA2C4&t=1498s  ->CI/CD pipeline
+https://www.youtube.com/watch?v=Ozna0MS5D1E ->CI/Cd pipeline concepts
+
+JENKINS PIPELINE EXAMPLES IN THIS LINK
+https://www.jenkins.io/doc/pipeline/examples/
+
+JENKINSFILE FOR DECLARTIVE PIPELINE
+FOR UNDERSTANDING THIS LINK->https://www.jenkins.io/doc/book/pipeline/jenkinsfile/
